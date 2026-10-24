@@ -1,7 +1,3 @@
-## Repos
-
-- [claude-skills](https://github.com/iconiksocials/claude-skills): reusable Claude skills that turn repeat work into a one-step process
-
 ## Skills
 
 | Skill | What it does |
