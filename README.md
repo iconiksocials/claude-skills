@@ -1,3 +1,7 @@
+## Repos
+
+- [claude-skills](https://github.com/iconiksocials/claude-skills): reusable Claude skills that turn repeat work into a one-step process
+
 # Claude Skills
 
 Reusable skills I've built for Claude. Each one turns a repeat task into a one-step process: Claude reads the skill, follows the rules, and gets it right the first time.
